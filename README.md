@@ -18,7 +18,7 @@ The data used is provided by the Minor Irrigation Census. We preprocessed the da
 
 - Piyush Devansh
 - Ishaan Pathak
-- Sheesh Saifi
+- Mohd. Sheesh Saifi
 - Varun Garg
 - Parth Bangwal
 - Sneha Negi
